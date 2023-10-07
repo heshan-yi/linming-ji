@@ -1,2 +1,0 @@
-# linming-ji
-rabbits
